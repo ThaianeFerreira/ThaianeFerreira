@@ -1,4 +1,4 @@
-# Fala Dev!! Tudo beleza ?
+# Olá Dev!! Tudo certo por aí ?
 
 - 👨🏽‍💻 -  Eu me chamo [Thaiane Ferreira](https://www.linkedin.com/in/thaianeferreira);
 - 💜 - Atuo como Tech Recruiter na [Wau Work](https://www.linkedin.com/company/wauwork/);
@@ -24,7 +24,6 @@
   <img align="center" alt="Pelaez-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pelaez-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pelaez-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pelaez-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pelaez-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
