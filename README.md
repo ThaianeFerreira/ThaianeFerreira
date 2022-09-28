@@ -1,9 +1,9 @@
 # Olá Dev!! Tudo certo por aí ?
 
-- 👨🏽‍💻 -  Me chamo [Thaiane Ferreira](https://www.linkedin.com/in/thaianeferreira);
-- 💜 - Atuo como Tech Recruiter na [Wau Work](https://www.linkedin.com/company/wauwork/);
-- 🦄 - Somos a plataforma para profissionais que buscam empresas, e empresas que buscam talentos!
-- 💸 - Constantemente temos vagas para:
+- 👩🏻 -  Me chamo [Thaiane Ferreira](https://www.linkedin.com/in/thaianeferreira);
+- 💗 - Atuo como Tech Recruiter na [Wau Work](https://www.linkedin.com/company/wauwork/);
+- 🚀 - Somos a plataforma para profissionais que buscam empresas, e empresas que buscam talentos!
+- 👩🏾‍💻👨🏻‍💻 - Constantemente temos vagas para:
 - - **Backend**: Java + Spring Framework + SQL Server;
 - - **Backend**: .Net Core + .Net Framework + AzureDevOps + SQL Server;
 - - **FullStack**: Java + Spring Framework + React + Angular.
